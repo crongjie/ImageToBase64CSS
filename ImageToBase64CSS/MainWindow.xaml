@@ -1,0 +1,22 @@
+﻿<Window x:Class="ImageToBase64CSS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Images to base 64 CSS file" Height="393.717" Width="762.844">
+    <Grid HorizontalAlignment="Left" Width="739" Height="356" VerticalAlignment="Top">
+        <Button x:Name="btn_browse" Content="Browse" HorizontalAlignment="Left" Margin="654,10,0,0" VerticalAlignment="Top" Width="75" Click="btn_browse_Click"/>
+        <TextBox x:Name="tb_image_path" HorizontalAlignment="Left" Height="20" Margin="112,12,0,0" TextWrapping="Wrap" IsReadOnly="True" VerticalAlignment="Top" Width="526"/>
+        <TextBox x:Name="tb_css_format" HorizontalAlignment="Left" Height="22" Margin="112,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="617" Text=".[image_name] { background-image: url('[base64_string]'); }"  />
+        <ListView x:Name="lv_image" HorizontalAlignment="Left" Height="220" Margin="10,92,0,0" VerticalAlignment="Top" Width="719">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Images Folder" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="CSS Format" HorizontalAlignment="Left" Height="26" Margin="10,37,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button x:Name="btn_save" Content="Save as css file" HorizontalAlignment="Left" Margin="332,321,0,0" VerticalAlignment="Top" Width="120" Click="btn_save_Click"/>
+        <CheckBox x:Name="cb_enable_image_size" Content="Save CSS File with image size" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top" Checked="cb_enable_image_size_Checked" Unchecked="cb_enable_image_size_Unchecked"/>
+
+    </Grid>
+</Window>

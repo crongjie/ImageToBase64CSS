@@ -1,0 +1,13 @@
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\bin\Debug\ImageToBase64CSS.exe.config
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\bin\Debug\ImageToBase64CSS.exe
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\bin\Debug\ImageToBase64CSS.pdb
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.csprojResolveAssemblyReference.cache
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\MainWindow.baml
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\MainWindow.g.cs
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\App.g.cs
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS_MarkupCompile.cache
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.g.resources
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.Properties.Resources.resources
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.csproj.GenerateResource.Cache
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.exe
+E:\ROOT\RAVG\svn\visual_studio_apps\ImageToBase64CSS\ImageToBase64CSS\obj\Debug\ImageToBase64CSS.pdb
