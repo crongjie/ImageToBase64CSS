@@ -1,0 +1,7 @@
+obj/
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+*.suo
+*.user
+Version.cs
