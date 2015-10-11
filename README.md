@@ -6,7 +6,7 @@ A Simple C# Program that embed all images from a folder to a single css file in 
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Rongjie
+Copyright (c) 2015 RJ(Rongjie)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
